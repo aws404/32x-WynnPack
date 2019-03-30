@@ -11,8 +11,9 @@ Website: https://wynncraft.com/ <br>
 | Wynn GUIs    | Icons, Compass   | Started     ||
 | Gathering Items | Materials     | Not Started ||
 | Gathering Tools | Axes, Picks   | Finshed     ||
-| Items        | Feather, Flint   | Started     ||
+| Re-Textured Items | Feather, Flint| Started   ||
 | Armour       | Helmets, Boots   | Imported    | Using Faithful Textures |
+| Un-Textured Items|| Imported    | Using Faithful Textures |
 | Spears       | -                | Not Started ||
 | Wands        | -                | Not Started ||
 | Daggers      | -                | Not Started ||
