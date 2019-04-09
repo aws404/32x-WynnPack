@@ -3,7 +3,7 @@ A Hi-Resolution Version of the Wynncraft MMORPG Minecraft Server Resource Pack <
 IP: play.wynncraft.com <br>
 Website: https://wynncraft.com/ <br>
 **All the Deafult Wynncraft Textures are Property of Wynncraft and are not owned by the creators or contributers of the pack <br>**
-**All the Textures from the Failthful 32x Pack are Property of the Faithful 32x pwner and are not owned by the creators or contributors to the pack <br>**
+**All the Textures from the Failthful 32x Pack are Property of the Faithful 32x owner and are not owned by the creators or contributors to the pack <br>**
 
 ## Progress
 | Items        | Examples         | Progress    | Notes            |
