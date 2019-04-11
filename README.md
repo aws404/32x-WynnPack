@@ -6,6 +6,17 @@
 Wynncraft Server IP: *play.wynncraft.com* <br>
 Wynncraft Website: *https://wynncraft.com/* <br>
 
+## Downloads and Install
+- The pack is designed to be a complete re-make and replacment of the original pack. Therefore the pack is installed the same way as a regular reosurce pack along with disabling the default server pack. 
+
+*More Detailed Install Instructions Comming Soon*
+
+## Discord Server
+Discord Invite Link: https://discord.gg/mSyMf6
+- The Discord server is for both people who want to help contribute and for those who simply want to be notified about current and upcoming updates.
+- The rules are very basic and can be summarised by simply saying "don't be dick"
+- The roles are self explanatory by the names, the Artist role will be given to those who are seen to be contributing high quality work to the pack.
+
 
 ## Progress
 | Items             | Examples                | Progress                | Notes            |
@@ -27,10 +38,6 @@ Wynncraft Website: *https://wynncraft.com/* <br>
 
 ## Contributor Infomation
 Contribution Guide Comming Soon
-
-## Download
-Offical download links will become avaliable when the pack is in more of a complete state, stay tunned!
-
 
 ## Licenses and Acknoledgements
 **All the Deafult Wynncraft Textures are Property of Wynncraft and are not owned by the creators or contributers of the pack, these textures are used and remixed thrugh this project to have the resolution doubled <br>**
