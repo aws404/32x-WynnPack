@@ -1,0 +1,47 @@
+{
+   "parent":"item/handheld",
+   "textures":{
+      "layer0":"items/gold_shovel"
+   },
+   "overrides":[
+		{ "predicate": { "damage": 0.03125 },
+			"model":"item/shops/left"
+		},
+		{ "predicate":{ "damage": 0.0625 },
+            "model":"item/shops/right"
+		},
+		{ "predicate":{ "damage": 0.09375 },
+			"model":"item/economy/compass/skill_gui"
+		},
+		{ "predicate":{ "damage": 0.125 },
+			"model":"item/economy/crafting/main"
+		},
+		{ "predicate":{ "damage": 0.15625 },
+			"model":"item/economy/crafting/item_slot"
+		},
+		{ "predicate":{ "damage": 0.1875 },
+			"model":"item/economy/crafting/material_slot"
+		},
+		{ "predicate":{ "damage": 0.21875 },
+			"model":"item/economy/crafting/arrow_up"
+		},
+		{ "predicate":{ "damage": 0.25 },
+			"model":"item/economy/crafting/arrow_down"
+		},
+		{ "predicate":{ "damage": 0.28125 },
+			"model":"item/gui/row"
+		},
+		{ "predicate":{ "damage": 0.3125 },
+			"model":"item/economy/compass/skill_gui_bottom"
+		},
+		{ "predicate":{ "damage": 0.34375 },
+			"model":"item/economy/crafting/column_offset"
+		},
+		{ "predicate":{ "damage": 0.375 },
+			"model":"item/economy/compass/side_column"
+		},
+		{ "predicate":{ "damaged":1 },
+			"model":"item/barrier"
+		}
+   ]
+}

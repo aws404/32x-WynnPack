@@ -1,0 +1,129 @@
+language.name=English
+language.region=US
+language.code=en_US
+
+
+--CUSTOM BLOCKS/ITEMS--
+item.slimeball.name=Slimeball
+item.rabbitHide.name=Armor
+tile.stoneSlab.brick.name=Dirt Slab
+tile.tripWireSource.name=Basic Key
+item.comparator.name=Spike Trap
+
+tile.clayHardenedStained.red.name=Red Checkmark
+tile.clayHardenedStained.yellow.name=Yellow Checkmark
+tile.clayHardenedStained.lime.name=Green Checkmark
+tile.clayHardenedStained.cyan.name=Grey Checkmark
+
+
+item.doorSpruce.name=Nii
+item.doorBirch.name=Tol
+item.doorJungle.name=Uth
+item.doorAcacia.name=Ek
+item.doorDarkOak.name=Az
+
+----
+
+container.inventory=Satchel
+container.hopper=Item Hopper
+container.crafting=
+container.dispenser=Dispenser
+container.dropper=Dropper
+container.furnace=Furnace
+container.enchant=Enchant
+container.enchant.lapis.one=1 Lapis Lazuli
+container.enchant.lapis.many=%d Lapis Lazuli
+container.enchant.level.one=1 EXP
+container.enchant.level.many=%d EXP
+container.enchant.clue=%s . . . ?
+container.repair=Repair & Name
+container.repair.cost=Enchantment Cost: %1$d
+container.repair.expensive=Too Expensive!
+container.creative=Item Selection
+container.brewing=Brewing Stand
+container.chest=Chest
+container.chestDouble=Large Chest
+container.minecart=Minecart
+container.enderchest=Ender Chest
+container.beacon=Beacon
+
+----
+
+effect.none=
+effect.moveSpeed=Speed
+effect.moveSlowdown=Slowness
+effect.digSpeed=Haste
+effect.digSlowDown=Mining Fatigue
+effect.damageBoost=Strength
+effect.heal=
+effect.harm=
+effect.jump=Jump Boost
+effect.confusion=Nausea
+effect.regeneration=Regeneration
+effect.resistance=Resistance
+effect.fireResistance=Fire Resistance
+effect.waterBreathing=Water Breathing
+effect.invisibility=Invisibility
+effect.blindness=Blindness
+effect.nightVision=Night Vision
+effect.hunger=Hunger
+effect.weakness=Weakness
+effect.poison=Poison
+effect.wither=Wither
+effect.healthBoost=Health Boost
+effect.absorption=Absorption
+effect.saturation=Saturation
+effect.glowing=Glowing
+effect.luck=Luck
+effect.unluck=Bad Luck
+effect.levitation=Levitation
+
+potion.effects.whenDrank=
+potion.empty=
+potion.moveSpeed=Speed
+potion.moveSlowdown=Slowness
+potion.digSpeed=Attack Speed
+potion.digSlowDown=Attack Speed
+potion.damageBoost=
+potion.heal=
+potion.harm=
+potion.jump=Jump Boost
+potion.confusion=Nausea
+potion.regeneration=
+potion.resistance=Resistance
+potion.fireResistance=
+potion.waterBreathing=Water Breathing
+potion.invisibility=Invisibility
+potion.blindness=Blindness
+potion.nightVision=Night Vision
+potion.hunger=Hunger
+potion.weakness=Weakness
+potion.poison=Poison
+potion.wither=Wither
+potion.healthBoost=Health Boost
+potion.absorption=Absorption
+potion.saturation=Saturation
+
+potion.moveSpeed.postfix=Potion of Swiftness
+potion.moveSlowdown.postfix=Potion of Slowness
+potion.digSpeed.postfix=Potion of Haste
+potion.digSlowDown.postfix=Potion of Dullness
+potion.damageBoost.postfix=Potion of Strength
+potion.weakness.postfix=Potion of Weakness
+potion.heal.postfix=
+potion.harm.postfix=
+potion.jump.postfix=Potion of Leaping
+potion.confusion.postfix=Potion of Nausea
+potion.regeneration.postfix=Potion of Regeneration
+potion.resistance.postfix=Potion of Resistance
+potion.fireResistance.postfix=Potion of Fire Resistance
+potion.waterBreathing.postfix=Potion of Water Breathing
+potion.invisibility.postfix=Potion of Invisibility
+potion.blindness.postfix=Potion of Blindness
+potion.nightVision.postfix=Potion of Night Vision
+potion.hunger.postfix=Potion of Hunger
+potion.poison.postfix=Potion of Poison
+potion.wither.postfix=Potion of Decay
+potion.healthBoost.postfix=Potion of Health Boost
+potion.absorption.postfix=Potion of Absorption
+potion.saturation.postfix=Potion of Saturation
