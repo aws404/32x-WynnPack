@@ -21,7 +21,7 @@ Discord Invite Link: https://discord.gg/mSyMf6
 ## Progress
 | Items             | Examples                | Progress                | Notes            |
 | ----------------- |:----------------------- | ----------------------- |:----------------:|
-| MC GUIs           | Player Inventory        | Not Started             | |
+| MC GUIs           | Player Inventory        | Finished                ||
 | Wynn GUIs         | Icons, Compass          | Started                 ||
 | Gathering Items   | Materials               | Not Started             ||
 | Gathering Tools   | Axes, Picks             | Finshed                 ||
