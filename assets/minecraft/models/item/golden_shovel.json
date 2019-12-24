@@ -38,6 +38,9 @@
 			"model":"item/economy/crafting/column_offset"
 		},
 		{ "predicate":{ "damage": 0.375 },
+			"model":"item/economy/compass/skill_gui_top"
+		},
+		{ "predicate":{ "damage": 0.40625 },
 			"model":"item/economy/compass/side_column"
 		},
 		{ "predicate":{ "damaged":1 },

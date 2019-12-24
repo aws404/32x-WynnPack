@@ -1,0 +1,6 @@
+{
+    "parent": "block/skyseer_totem_summon",
+    "textures": {
+        "particle": "block/stone"
+    }
+}

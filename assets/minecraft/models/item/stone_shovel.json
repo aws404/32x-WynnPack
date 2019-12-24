@@ -1,0 +1,116 @@
+{
+	"parent": "item/handheld",
+    "textures": {
+        "layer0": "items/stone_shovel"
+    },
+	"overrides":[
+		{
+        "predicate": { "damage": 0.0075 },
+        "model":"item/wynn/loot/identifier_0"
+		},
+		{
+        "predicate": { "damage": 0.015 },
+        "model":"item/wynn/loot/identifier_1"
+		},
+		{
+        "predicate": { "damage": 0.0225 },
+        "model":"item/wynn/loot/identifier_2"
+		},
+		{
+        "predicate": { "damage": 0.03 },
+        "model":"item/wynn/loot/identifier_3"
+		},
+		{
+        "predicate": { "damage": 0.0375 },
+        "model":"item/wynn/loot/identifier_4"
+		},
+		{
+        "predicate": { "damage": 0.045 },
+        "model":"item/wynn/loot/identifier_5"
+		},
+		{
+        "predicate": { "damage": 0.0525 },
+        "model":"item/wynn/shaman/relic_basic_wooden"
+		},
+		{
+        "predicate": { "damage": 0.06 },
+        "model":"item/wynn/shaman/relic_basic_gold"
+		},
+		{
+        "predicate": { "damage": 0.0675 },
+        "model":"item/wynn/shaman/relic_earth_a"
+		},
+		{
+        "predicate": { "damage": 0.075 },
+        "model":"item/wynn/shaman/relic_earth_b"
+		},
+		{
+        "predicate": { "damage": 0.0825 },
+        "model":"item/wynn/shaman/relic_earth_c"
+		},
+		{
+        "predicate": { "damage": 0.09 },
+        "model":"item/wynn/shaman/relic_thunder_a"
+		},
+		{
+        "predicate": { "damage": 0.0975 },
+        "model":"item/wynn/shaman/relic_thunder_b"
+		},
+		{
+        "predicate": { "damage": 0.105 },
+        "model":"item/wynn/shaman/relic_thunder_c"
+		},
+		{
+        "predicate": { "damage": 0.1125 },
+        "model":"item/wynn/shaman/relic_fire_a"
+		},
+		{
+        "predicate": { "damage": 0.12 },
+        "model":"item/wynn/shaman/relic_fire_b"
+		},
+		{
+        "predicate": { "damage": 0.1275 },
+        "model":"item/wynn/shaman/relic_fire_c"
+		},
+		{
+        "predicate": { "damage": 0.135 },
+        "model":"item/wynn/shaman/relic_air_a"
+		},
+		{
+        "predicate": { "damage": 0.1425 },
+        "model":"item/wynn/shaman/relic_air_b"
+		},
+		{
+        "predicate": { "damage": 0.15 },
+        "model":"item/wynn/shaman/relic_air_c"
+		},
+		{
+        "predicate": { "damage": 0.1575 },
+        "model":"item/wynn/shaman/relic_water_a"
+		},
+		{
+        "predicate": { "damage": 0.165 },
+        "model":"item/wynn/shaman/relic_water_b"
+		},
+		{
+        "predicate": { "damage": 0.1725 },
+        "model":"item/wynn/shaman/relic_water_c"
+		},
+		{
+        "predicate": { "damage": 0.18 },
+        "model":"item/wynn/shaman/relic_multi_a"
+		},
+		{
+        "predicate": { "damage": 0.1875 },
+        "model":"item/wynn/shaman/relic_multi_b"
+		},
+		{
+        "predicate": { "damage": 0.195 },
+        "model":"item/wynn/shaman/relic_multi_c"
+		},
+		{
+        "predicate": { "damaged": 1 },
+        "model":"item/barrier"
+		}
+	]
+}
